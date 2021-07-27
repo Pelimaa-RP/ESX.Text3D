@@ -4,9 +4,9 @@
 
 ## Information
 
-- Put this code to "es_extended/client/functions.lua"
+ - Put this code to "es_extended/client/functions.lua"
 
 
 ## Requirements
 
-- es_extended (any version)
+ - es_extended (any version)
