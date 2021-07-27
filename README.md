@@ -9,4 +9,4 @@
 
 ## Requirements
 
- - es_extended (any version)
+ - [es_extended](https://github.com/esx-framework/es_extended/releases)
